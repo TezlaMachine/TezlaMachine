@@ -16,9 +16,9 @@ Profile README for TezlaMachine
 
 ## Network Infrastructure | Cybersecurity | NOC/SOC Labs | Python Automation | AI Engineering | Electrical/OT Systems
 
-I build practical systems for **network monitoring, cybersecurity operations, infrastructure support, AI automation, NOC/SOC triage, OT/IoT telemetry, Linux services, firewalls and technical documentation**.
+I build practical systems for **network monitoring, cybersecurity operations, infrastructure support, AI automation, NOC/SOC triage, OT/IoT telemetry, Data analysis, Linux services, firewalls and technical documentation**.
 
-I am a **SENA Technologist in Data Network Management** with Electrical Engineering studies completed through the **8th semester**. My profile connects **data networks, telecommunications, structured cabling, cloud infrastructure, Python automation, Linux administration, cybersecurity labs, VoIP, electronics and electrical systems**.
+I am a **Technologist in Data Network Management** with Electrical Engineering studies completed through the **8th semester**. My profile connects **data networks, telecommunications, structured cabling, cloud infrastructure, Python automation, Linux administration, cybersecurity , VoIP, electronics and electrical power systems**.
 
 ---
 
