@@ -26,4 +26,4 @@ I am a **Technologist in Data Network Management** with Electrical Engineering s
 
 ```txt
 Remote-ready technical profile focused on:
-Networks + Cybersecurity + Monitoring + Linux + Python Automation + AI + OT/IoT
+Networks + Cybersecurity + Monitoring + Linux + Python Automation + AI + OT/IoT + FullStack 
